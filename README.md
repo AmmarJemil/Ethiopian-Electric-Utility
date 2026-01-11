@@ -600,4 +600,5 @@ SOFTWARE.
 
 ---
 
-**⚡ Powering Ethiopia's Future with AI-Driven Energy Management**
+**⚡ Powering Ethiopia's Future with AI-Driven Energy Management**#   E t h i o p i a n - E l e c t r i c - U t i l i t y  
+ 
